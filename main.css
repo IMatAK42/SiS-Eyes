@@ -1643,6 +1643,7 @@ body.darktheme{
 .mainmenuclass {
 	display: inline-block;
 	width:100%;
+	background-color: #132e14;
 }
 .welcomeOverlay{
 	object-fit: cover;
